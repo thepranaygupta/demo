@@ -1,6 +1,5 @@
 name: Ideas
 description: Have a new idea/feature for this Repository?
-title: "[FEATURE] <description>"
 labels: ["new idea"]
 body:
   - type: textarea
